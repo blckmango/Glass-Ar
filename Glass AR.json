@@ -1,0 +1,76 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613284249.obj"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        12613283569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613283569.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        14652718299
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_14652718299.obj"
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613284529.obj"
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12613284768
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613284768.obj"
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        12613283569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613283569.obj"
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        12613284036
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613284036.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/blckmango/Glass-Ar/blob/main/RenderMesh_12613283355.obj"
+    }
+  ]
+}
